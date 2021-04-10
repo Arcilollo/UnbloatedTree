@@ -2,10 +2,16 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	text-align: center;
 	max-width: 800px;
+	text-decoration: none;
 	margin-left: auto;
 	margin-right: auto;
 	background: #232629;
 	color: white;
+}
+
+.light-mode {
+	background: white;
+	color: #232629;
 }
 
 .button {
